@@ -1,0 +1,7 @@
+Credentials cache: API:7040
+        Principal: wned@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 20 09:31:08 2018  Aug 20 19:31:49 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Aug 20 09:31:10 2018  Aug 20 19:31:49 2018  ldap/ldap-master.21-school.ru@21-SCHOOL.RU
+Aug 20 09:31:15 2018  Aug 20 19:31:49 2018  HTTP/storage-student.21-school.ru@21-SCHOOL.RU
